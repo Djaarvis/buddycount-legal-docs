@@ -65,6 +65,6 @@ Nous pouvons être amenés à mettre à jour cette Politique de Confidentialité
 9. Nous Contacter
 
 Si vous avez des questions concernant cette Politique de Confidentialité, veuillez nous contacter à :
-Jean.helal@gmail.com
+biguipen@gmail.com
 
 ![image](https://github.com/user-attachments/assets/a54629a1-e6bc-48bb-ac1c-39ab65b54069)
