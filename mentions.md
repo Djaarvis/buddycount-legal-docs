@@ -4,9 +4,9 @@ Conformément à l’article 6 III-1 de la Loi n°2004-575 du 21 juin 2004 pour 
 
 Éditeur de l’application :
 HELAL Jean
-[Adresse postale ou mention “auto-entrepreneur enregistré”]
-Email : jean.helal@gmail.com
-SIRET : [si applicable]
+
+Email : biguipen@gmail.com
+
 
 Hébergement :
 L’application ne stocke aucune donnée en ligne. Elle fonctionne **sans serveur distant**.
