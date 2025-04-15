@@ -21,4 +21,4 @@ Politique de confidentialité :
 Voir la Politique de Confidentialité intégrée à l’application.
 
 
-![image](https://github.com/user-attachments/assets/a414e2f8-ea8a-40dd-833a-2fa609392128)
+
