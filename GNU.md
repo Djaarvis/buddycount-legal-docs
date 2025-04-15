@@ -26,3 +26,4 @@ En cas de suppression de l’application par l’utilisateur, toutes les donnée
 Les présentes conditions sont soumises au droit français. En cas de litige, les tribunaux compétents seront ceux du ressort du siège social de l’éditeur.
 
 
+Jean HELAL
