@@ -26,4 +26,3 @@ En cas de suppression de l’application par l’utilisateur, toutes les donnée
 Les présentes conditions sont soumises au droit français. En cas de litige, les tribunaux compétents seront ceux du ressort du siège social de l’éditeur.
 
 
-![image](https://github.com/user-attachments/assets/96b1c94c-13e6-4a92-888b-51e340848852)
