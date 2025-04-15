@@ -1,4 +1,4 @@
-DISCLAIMER & CHARTE D’UTILISATION RESPONSABLE
+DISCLAIMER & CHARTE D’UTILISATION RESPONSABLE (15/04/2025)
 
 BuddyCount est un outil personnel conçu pour permettre à ses utilisateurs de garder une trace privée et locale de leurs rencontres. En utilisant cette application, vous vous engagez à respecter les règles de bon usage suivantes, dans le respect de la vie privée et de la dignité d’autrui.
 
