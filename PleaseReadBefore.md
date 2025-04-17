@@ -115,25 +115,43 @@ porter atteinte à la vie privée d’autrui,
 être utilisé pour constituer des bases de données sur d’autres personnes,
 nuire à l’image ou à la réputation de quiconque.
 Responsabilité L’éditeur de l’application décline toute responsabilité quant à l’usage que vous ferez des informations saisies. Vous êtes seul responsable du contenu que vous entrez, ainsi que de ses conséquences.
-LE PETIT MOT DU CREATEUR : Bonjour ^^
 
-Je suis Jean HELAL. Amoureux des nouvelles technologies et de soirées, j'ai eu l'idée pour cette application, lors d'un after, sur la pisciboat.
+LE PETIT MOT DU CRÉATEUR :
+Bonjour ^^
 
-La pisciboat est une péniche, sur la Seine, proposant un grand pont ensoleillé, que j'ai fréquenté un dimanche matin, après une soirée au FVTVR. Sur ce pont, un large groupe s'est formé, avec plusieurs sujtes de conversation dans les bouches et coeurs. L'un de ces sujet est revenus plus d'une fois, et m'a semblé concerner une large partie de ce groupe.
+Je suis Jean HELAL.
+Amoureux des nouvelles technologies et des soirées,
+j’ai eu l’idée de cette application lors d’un after sur la Pisciboat.
 
-Le groupe échangeait alors sur le concept de "Body Count", qui ne devrait pas vous être étranger si vous avez téléchargé cette application =) Au fil de la conversation, plusieurs acteurs nous ont montrés leurs listes, leurs body count. A chaques fois, cette liste était enregistrée dans une application de notes de leurs téléphone mobile (GSM). Une simple notes, contenant une liste de noms. Avec parfois, une note, un emoji et quelques informations sur la rencontre. Tous ceux qui avaient une liste, la tenait sur son application de notes...
+La Pisciboat est une péniche sur la Seine, avec un grand pont ensoleillé. 
+J’y ai passé un samedi matin après une soirée au FVTVR.
+Sur ce pont, un large groupe s’est formé, avec plusieurs sujets de conversation qui vibraient entre les bouches et les cœurs.
+L’un de ces sujets est revenu plusieurs fois et m’a semblé concerner une grande partie du groupe.
 
-Je me suis dis, "bah fait application simple pour remplacer la note"
+Il s’agissait du concept de "Body Count", qui ne devrait pas vous être étranger si vous avez téléchargé cette application 😉
+Au fil des échanges, plusieurs personnes ont partagé leurs listes, leurs "body count".
+Et à chaque fois, cette liste était enregistrée dans l’application Notes de leur téléphone.
+Juste une note, avec une liste de prénoms. 
+Parfois, un petit commentaire, un emoji, une info sur la rencontre.
+Tous ceux qui avaient une liste utilisaient l’appli Notes…
 
-Et voilà ! Après une semaine d'acharnement, BuddyCount est née (Body Count étant déjà pris et trop parlant). Sur une simple idée marrant, sans compétences particulère en code et encore moins le code sur les appareils Apple, Je me suis lancé dans la création de cette application.
+Je me suis dit : "Pourquoi ne pas créer une appli simple pour remplacer cette note ?"
 
-Comme il est mentionné plus, le fait d'attribuer une notes quelconque à autrui est juste immoral. BuddyCount n'est pas là pour vous pemettre de tenir un carnet de correspondance de vos rencontres et autre, mais un juste un outils pour remplacer votre note.
+Et voilà ! Après une semaine d’acharnement, BuddyCount est née (le nom "Body Count" étant déjà pris et un peu trop explicite).
+Partie d’une idée marrante, sans compétences particulières en code – encore moins sur les appareils Apple –
+je me suis lancé dans la création de cette application.
 
-Soyez respteueux les uns envers les autre, et ne faites pas ce que vous n'aimeriez pas subir !
+Comme mentionné plus haut, attribuer une note à quelqu’un est clairement immoral.
+BuddyCount n’est pas là pour vous permettre de juger vos rencontres ou d’en faire un tableau de chasse,
+mais simplement pour remplacer votre note personnelle.
 
-Gardez en tête que cet outil est issu de l'eszprit d'un teufeur après 18h de fête et n'a aucunement vocation à noter les "performances" de qui que ce soit. Vous êtes libre d'ajouter un criter avec une note ou pas. Vous pouvez simplement ajouter un emoji ou un petit commentaire.
+Soyez respectueux les uns envers les autres, et ne faites pas aux autres ce que vous n’aimeriez pas qu’on vous fasse !
 
-MErci pour votre compréhension et aimez vous !
+Gardez en tête que cet outil est né de l’esprit d’un teufeur après 18h de fête. Il n’a absolument pas vocation à "noter" qui que ce soit.
+Vous êtes libre d’ajouter un critère, une note, ou pas.
+Vous pouvez simplement mettre un emoji ou un petit commentaire.
+
+Merci pour votre compréhension, et surtout, aimez-vous ! ❤️
 
 En téléchargeant ou en utilisant cette application, vous reconnaissez avoir lu et compris cette charte d’utilisation responsable. Merci de contribuer à une culture du respect et de la bienveillance.
 
